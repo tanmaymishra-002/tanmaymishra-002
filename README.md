@@ -23,11 +23,3 @@ I am a B.Tech CSE (AI & ML) student passionate about Machine Learning, Data Stru
 
 * 📧 Email: [tanmaymishra.129@gmail.com](mailto:tanmaymishra.129@gmail.com)
 * 💼 LinkedIn:https://www.linkedin.com/in/tanmay-mishra-753b99322
-
-* https://shields.io/
-* https://skillicons.dev/
-* ## 📊 GitHub Stats
-
-![Tanmay's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanmaymishra-002&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaymishra-002&layout=compact&theme=tokyonight)
