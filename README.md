@@ -18,6 +18,13 @@ I am a B.Tech CSE (AI & ML) student passionate about Machine Learning, Data Stru
 * **GitHub** – A platform for hosting projects, showcasing work, and collaborating with developers.
 * **Machine Learning** – Exploring supervised learning algorithms, model building, and data-driven solutions.
 
+[![My Skills](https://skillicons.dev/icons?i=java,python,c,git,github,vscode,mysql,sklearn,tensorflow)](https://skillicons.dev)
+
+
+## 💻 Coding Profiles
+
+- LeetCode:https://leetcode.com/u/Tanmaymishra_417
+  
 ## 📫 Connect with me
 
 * 📧 Email: [tanmaymishra.129@gmail.com](mailto:tanmaymishra.129@gmail.com)
