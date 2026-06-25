@@ -4,7 +4,7 @@
 
 I am a B.Tech CSE (AI & ML) student passionate about Machine Learning, Data Structures, and Software Development. I enjoy solving problems, building my technical skills, and exploring new technologies.
 
-* 🎓 B.Tech CSE (AI & ML) @ C.V. Raman Global University
+* 🎓 B.Tech CSE (AI & ML) @ C.V. Raman Global University, Bhubaneswar
 * 🌱 Currently learning Java, Data Structures & Algorithms, and Machine Learning
 * 💻 Regularly solving problems on LeetCode
 * 🤝 Open to real-world opportunities, collaborations, and learning experiences
@@ -14,7 +14,6 @@ I am a B.Tech CSE (AI & ML) student passionate about Machine Learning, Data Stru
 
 * **Python** – My primary language for Machine Learning, data analysis, and automation.
 * **Java** – Used for Data Structures & Algorithms and building a strong problem-solving foundation.
-* **SQL** – Essential for working with databases and managing structured data efficiently.
 * **Git** – A version control system that helps track changes and manage projects effectively.
 * **GitHub** – A platform for hosting projects, showcasing work, and collaborating with developers.
 * **Machine Learning** – Exploring supervised learning algorithms, model building, and data-driven solutions.
